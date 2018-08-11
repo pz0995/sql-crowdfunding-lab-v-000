@@ -47,6 +47,7 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES ('836q', '14', '02');
 INSERT INTO pledges (amount, user_id, project_id) VALUES ('4726', '15', '01');
 INSERT INTO pledges (amount, user_id, project_id) VALUES ('2725', '16', '99');
 INSERT INTO pledges (amount, user_id, project_id) VALUES ('6261', '17', '11');
+INSERT INTO pledges (amount, user_id, project_id) VALUES ('0855', '18', '00');
 INSERT INTO pledges (amount, user_id, project_id) VALUES ('2938', '19', '92');
 INSERT INTO pledges (amount, user_id, project_id) VALUES ('3729', '20', '37');
 INSERT INTO pledges (amount, user_id, project_id) VALUES ('7522', '21', '39');
